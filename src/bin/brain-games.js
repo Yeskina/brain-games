@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import app from '../index'
+import { startGame } from '../index'
 
-app()
+startGame()
